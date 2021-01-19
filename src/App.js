@@ -9,6 +9,15 @@ function App() {
           avatar="https://randomuser.me/api/portraits/men/11.jpg"
           online="online"
       />
+      <Contact
+          name="Nicholas Turner"
+          avatar="https://randomuser.me/api/portraits/men/72.jpg"
+      />
+      <Contact
+          name="Ella Willis"
+          avatar="https://randomuser.me/api/portraits/women/47.jpg"
+          online="online"
+      />
     </div>
   );
 }
